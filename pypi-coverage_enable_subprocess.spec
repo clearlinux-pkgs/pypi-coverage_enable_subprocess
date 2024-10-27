@@ -7,7 +7,7 @@
 #
 Name     : pypi-coverage_enable_subprocess
 Version  : 1.0
-Release  : 5
+Release  : 6
 URL      : https://files.pythonhosted.org/packages/31/f4/57693bcf041ba641501b7a2fafc9d3d2de647355d78c6a2e07fb53648eaa/coverage_enable_subprocess-1.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/31/f4/57693bcf041ba641501b7a2fafc9d3d2de647355d78c6a2e07fb53648eaa/coverage_enable_subprocess-1.0.tar.gz
 Summary  : enable python coverage for subprocesses
